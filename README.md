@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Lithax/Lithax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I’m Lithax! A Java enthusiast who loves to solve problems, build useful tools, and learning how things work under the hood.
 
 - 🔭 I’m currently working on a few java projects (see repos)
 - 🌱 I’m currently learning java, js, python, c
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Lithax@outlook.de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like making my own applications
--->
