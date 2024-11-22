@@ -10,3 +10,4 @@ I’m Lithax! A Java enthusiast who loves to solve problems, build useful tools,
 - 📫 How to reach me: Lithax@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like making my own applications
+- 😡 I hate Python
