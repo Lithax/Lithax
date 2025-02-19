@@ -14,3 +14,5 @@ I’m Lithax! A Java enthusiast who loves to solve problems, build useful tools,
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lithax&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="Lithax's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithax&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Lithax's GitHub Stats" />
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lithax)
+
