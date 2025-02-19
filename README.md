@@ -11,3 +11,5 @@ I’m Lithax! A Java enthusiast who loves to solve problems, build useful tools,
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like making my own applications
 - 😡 I hate Python
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithax&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Lithax's GitHub Stats" />
